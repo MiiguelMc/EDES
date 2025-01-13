@@ -5,7 +5,6 @@ Este repositorio contiene una serie de ejercicios y soluciones relacionados con 
 ## Contenido
 
 - **Ejercicio Github**: Son todos Los ejercicios que tiene referencias a git hub .
-- **IMG**: Son imagenes necesarios para los Ejercicios.
 - **Markdown**: Ejercicio de Markdown.
 
 
