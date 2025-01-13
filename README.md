@@ -14,7 +14,11 @@ Este repositorio contiene una serie de ejercicios y soluciones relacionados con 
    ```bash
    git clone https://github.com/tu_usuario/edes-ejercicios.git
 
-##Tares
+##Tareas
+
 * [x] Github
 * [x] Markdown  
 * [ ] JavaDoc
+
+:exclamation::exclamation::exclamation::exclamation:
+
