@@ -13,3 +13,8 @@ Este repositorio contiene una serie de ejercicios y soluciones relacionados con 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tu_usuario/edes-ejercicios.git
+
+##Tares
+* [x] Github
+* [x] Markdown  
+* [ ] JavaDoc
