@@ -19,7 +19,7 @@
 17. [Referencias al pie](#15)
 18. [Fórmulas matemáticas](#16)
 
-## Mi Github (<https://github.com/MiiguelMc/EDES.git/>)
+## [Mi Github](<https://github.com/MiiguelMc/EDES.git/>)
 
 <a name="hola1">
 
