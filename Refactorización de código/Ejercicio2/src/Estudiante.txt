@@ -1,0 +1,12 @@
+Cristian;101
+Adrian;103
+Pepe;104
+Carlos;106
+Cristian;101
+Adrian;103
+Pepe;104
+Carlos;106
+Cristian;101
+Adrian;103
+Pepe;104
+Carlos;106
